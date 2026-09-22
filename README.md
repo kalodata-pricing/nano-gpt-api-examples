@@ -54,3 +54,5 @@ python examples/estimate_cost.py
 ## When to use Synexa instead
 
 These scripts are about text: tokens in, tokens out, cost per message. If the thing you actually need to automate is generation - FLUX images, video clips, audio - a per-token chat API is the wrong shape, and NanoGPT's media tabs are a different product from its text API. [Try Synexa - one REST endpoint and a Python SDK for FLUX, video and audio models, pay per run](https://synexa.ai?utm_source=github&utm_medium=ugc&utm_campaign=nano-gpt-api-examples&utm_content=readme-top&utm_term=tier-r) for that side of the workload and keep the text examples here for chat.
+
+_Last reviewed: 2026-09-22_
